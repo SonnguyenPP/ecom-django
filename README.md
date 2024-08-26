@@ -16,9 +16,3 @@
 
 <p><span style="color:#000000">5. <strong>ORDERITEM</strong> - An order Item is one item with an order. For example, a shopping cart may consist of many items but is all part of one order. Therfore the OrderItem model will be a child of the PRODUCT model AND the ORDER Model.</span></p>
 
-<p><span style="color:#000000">6. <strong>SHIPPING </strong>- Not every order will need shipping information. For orders containing physical products that need to be shipping we will need to create an instance of the shipping model to know where to send the order. Shipping will simply be a child of the order model when necessary.</span></p>
-
-<p>&nbsp;</p>
-                </div>
-
-            </div>
